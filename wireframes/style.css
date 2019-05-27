@@ -1,0 +1,34 @@
+.navegacao{
+    width: 100%;
+    height: 70px;
+    background-color: orange;
+}
+
+.sub-navegacao{
+    width: 100%;
+    height: 60px;
+    background-color: gray;
+}
+
+.opcoes{
+    height: 300px;
+    width: 20%;
+    background-color: brown;
+    float: left;
+}
+
+.publicidade{
+    float: right;
+    height: 300px;
+    width: 900px;
+    background-color: cadetblue;
+    margin-right: 360px;
+
+}
+
+.livros{
+    width: 100%;
+    height: 300px;
+    background-color: cornflowerblue;
+    margin-top: 300px;
+}
