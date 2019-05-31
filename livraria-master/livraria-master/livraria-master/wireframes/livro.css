@@ -1,0 +1,30 @@
+.navegacao{
+    width: 100%;
+    height: 70px;
+    background-color: orange;
+}
+
+.sub-navegacao{
+    width: 100%;
+    height: 60px;
+    background-color: gray;
+}
+
+.imagem{
+    width: 200px;
+    height: 300px;
+    background-color: cadetblue;
+    margin-top: 70px;
+    float: left;
+    margin-left: 400px;
+}
+
+.informacoes{
+    float: right;
+    width: 40%;
+    height: 300px;
+    background-color: blueviolet;
+    margin-right: 0px;
+    margin-top: 70px;
+    position: absolute;
+}
